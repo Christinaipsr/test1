@@ -4,6 +4,6 @@ public class greeter {
         System.out.println("What is ur name? Please type your name and hit enter");
         Scanner scanner = new Scanner(System.in);
         String name = scanner.nextLine();
-        System.out.println("Hello crt" + name + "!");
+        System.out.println("Hello java" + name + "!");
     }
 }
